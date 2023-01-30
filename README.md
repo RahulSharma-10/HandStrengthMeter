@@ -41,7 +41,7 @@ For further improvements in judgements, since a Pair is always going to be havin
 
 Hence,
 
-**Formula(1): 40 + (Strength*20) **
+**Formula(1): 40 + (Strength*20)**
 
 **Formula(2): (Strength*40)**
 
