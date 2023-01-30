@@ -57,15 +57,15 @@ A standardised scale has been followed to compute the score taken from [https://
 scale contains the ranges of all the card combinations. 
 
 	Card				Probability	 	 Range		Multiplying Factor
-	High Card    		17.4%       	(0,17)		0.0833
-	One Pair     		43.8%       	(17,62)		0.0833
-	Two Pair     		23.5%       	(63,87)		0.0833
-	Three of a Kind		4.83% 			(87,92)		0.41
-	Straight			4.62%       	(92,96)		0.33
+	High Card    			17.4%       		(0,17)		0.0833
+	One Pair     			43.8%       		(17,62)		0.0833
+	Two Pair     			23.5%       		(63,87)		0.0833
+	Three of a Kind			4.83% 			(87,92)		0.41
+	Straight			4.62%       		(92,96)		0.33
 	Flush				3.03%			(96,99)		0.0833
 	Full House			2.60%			(99,102)	0.24
-	Four of a Kind		0.168%			(102,103)	0.08
-	Straight Flush		0.0279%			(103,105)	0.16
+	Four of a Kind			0.168%			(102,103)	0.08
+	Straight Flush			0.0279%			(103,105)	0.16
 	Royal Flush			0.0032%			105
 
 The Multiplying Factor ensures that all calculations are within the range and is adjusted as per the probability.
